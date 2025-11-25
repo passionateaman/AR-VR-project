@@ -17,8 +17,6 @@ Educational AR textbook and immersive VR shooting game.
 ### VR Shooting Game (Meta Quest 2)
  **[Download VR_ShootingGame.apk](https://drive.google.com/file/d/1gIz_R0ckHxdzdcj4ipm71Xo_tCQdikTE/view?usp=sharing)**
 
-> Replace `YOUR_FILE_ID` with your actual Google Drive file IDs after uploading
-
 ---
 
 ##  Quick Start
