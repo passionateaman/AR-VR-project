@@ -2,9 +2,8 @@
 
 [![Unity](https://img.shields.io/badge/Unity-2022.3-blue.svg)](https://unity3d.com/)
 [![Platform](https://img.shields.io/badge/Platform-Android-green.svg)](https://www.android.com/)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-Educational AR textbook and immersive VR shooting game developed at MITS Gwalior.
+Educational AR textbook and immersive VR shooting game.
 
 ---
 
